@@ -6,7 +6,7 @@ public:
         int e = n-1;
        
 
-        while(s < e) {
+        while(s < e) {       //if we pu while loop as s<=e then it can stuck in infinite loop because we did e=mid in else condition but in binary search it is e=mid-1.
             int mid = s + (e-s)/2;
             if(arr[mid] < arr[mid+1] ){
                 //A wali line me hu
