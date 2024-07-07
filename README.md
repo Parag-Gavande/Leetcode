@@ -13,3 +13,14 @@ Solution of leetcode problems
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/Parag-Gavande/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Parag-Gavande/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+## Binary Search
+|  |
+| ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Parag-Gavande/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+<!---LeetCode Topics End-->
