@@ -18,6 +18,7 @@ Solution of leetcode problems
 ## Array
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Parag-Gavande/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Parag-Gavande/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Parag-Gavande/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Binary Search
@@ -28,6 +29,7 @@ Solution of leetcode problems
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Parag-Gavande/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0088-merge-sorted-array](https://github.com/Parag-Gavande/Leetcode/tree/master/0088-merge-sorted-array) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Parag-Gavande/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 ## String
 |  |
@@ -44,5 +46,6 @@ Solution of leetcode problems
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Parag-Gavande/Leetcode/tree/master/0088-merge-sorted-array) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Parag-Gavande/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 <!---LeetCode Topics End-->
