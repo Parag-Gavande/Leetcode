@@ -58,4 +58,8 @@ Solution of leetcode problems
 |  |
 | ------- |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Parag-Gavande/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
+## Database
+|  |
+| ------- |
+| [0577-employee-bonus](https://github.com/Parag-Gavande/Leetcode/tree/master/0577-employee-bonus) |
 <!---LeetCode Topics End-->
