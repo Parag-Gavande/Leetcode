@@ -39,6 +39,7 @@ Solution of leetcode problems
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Parag-Gavande/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0171-excel-sheet-column-number](https://github.com/Parag-Gavande/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/Parag-Gavande/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Parag-Gavande/Leetcode/tree/master/0344-reverse-string) |
 ## Dynamic Programming
@@ -64,4 +65,8 @@ Solution of leetcode problems
 |  |
 | ------- |
 | [0577-employee-bonus](https://github.com/Parag-Gavande/Leetcode/tree/master/0577-employee-bonus) |
+## Math
+|  |
+| ------- |
+| [0171-excel-sheet-column-number](https://github.com/Parag-Gavande/Leetcode/tree/master/0171-excel-sheet-column-number) |
 <!---LeetCode Topics End-->
