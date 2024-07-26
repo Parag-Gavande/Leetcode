@@ -18,6 +18,7 @@ Solution of leetcode problems
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Parag-Gavande/Leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Parag-Gavande/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/Parag-Gavande/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Parag-Gavande/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -32,6 +33,7 @@ Solution of leetcode problems
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Parag-Gavande/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0015-3sum](https://github.com/Parag-Gavande/Leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Parag-Gavande/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/Parag-Gavande/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0344-reverse-string](https://github.com/Parag-Gavande/Leetcode/tree/master/0344-reverse-string) |
@@ -60,6 +62,7 @@ Solution of leetcode problems
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Parag-Gavande/Leetcode/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/Parag-Gavande/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/Parag-Gavande/Leetcode/tree/master/0242-valid-anagram) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Parag-Gavande/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
