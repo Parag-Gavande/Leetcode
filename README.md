@@ -78,6 +78,7 @@ Solution of leetcode problems
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Parag-Gavande/Leetcode/tree/master/0007-reverse-integer) |
 | [0171-excel-sheet-column-number](https://github.com/Parag-Gavande/Leetcode/tree/master/0171-excel-sheet-column-number) |
 ## Trie
 |  |
