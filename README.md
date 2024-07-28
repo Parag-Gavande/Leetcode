@@ -42,6 +42,7 @@ Solution of leetcode problems
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Parag-Gavande/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0013-roman-to-integer](https://github.com/Parag-Gavande/Leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Parag-Gavande/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0171-excel-sheet-column-number](https://github.com/Parag-Gavande/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/Parag-Gavande/Leetcode/tree/master/0242-valid-anagram) |
@@ -55,6 +56,7 @@ Solution of leetcode problems
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Parag-Gavande/Leetcode/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/Parag-Gavande/Leetcode/tree/master/0242-valid-anagram) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Parag-Gavande/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2502-sort-the-people](https://github.com/Parag-Gavande/Leetcode/tree/master/2502-sort-the-people) |
@@ -79,6 +81,7 @@ Solution of leetcode problems
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Parag-Gavande/Leetcode/tree/master/0007-reverse-integer) |
+| [0013-roman-to-integer](https://github.com/Parag-Gavande/Leetcode/tree/master/0013-roman-to-integer) |
 | [0171-excel-sheet-column-number](https://github.com/Parag-Gavande/Leetcode/tree/master/0171-excel-sheet-column-number) |
 ## Trie
 |  |
