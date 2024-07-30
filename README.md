@@ -48,6 +48,7 @@ Solution of leetcode problems
 | [0171-excel-sheet-column-number](https://github.com/Parag-Gavande/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/Parag-Gavande/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Parag-Gavande/Leetcode/tree/master/0344-reverse-string) |
+| [1797-goal-parser-interpretation](https://github.com/Parag-Gavande/Leetcode/tree/master/1797-goal-parser-interpretation) |
 | [2502-sort-the-people](https://github.com/Parag-Gavande/Leetcode/tree/master/2502-sort-the-people) |
 | [3379-score-of-a-string](https://github.com/Parag-Gavande/Leetcode/tree/master/3379-score-of-a-string) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Parag-Gavande/Leetcode/tree/master/3412-permutation-difference-between-two-strings) |
