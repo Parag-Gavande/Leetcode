@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/split-a-string-in-balanced-strings">1341. Split a String in Balanced Strings</a></h2><h3>Easy</h3><hr><p><strong>Balanced</strong> strings are those that have an equal quantity of <code>&#39;L&#39;</code> and <code>&#39;R&#39;</code> characters.</p>
+<h2><a href="https://leetcode.com/problems/split-a-string-in-balanced-strings">Split a String in Balanced Strings</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p><strong>Balanced</strong> strings are those that have an equal quantity of <code>&#39;L&#39;</code> and <code>&#39;R&#39;</code> characters.</p>
 
 <p>Given a <strong>balanced</strong> string <code>s</code>, split it into some number of substrings such that:</p>
 
