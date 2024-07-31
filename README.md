@@ -48,6 +48,7 @@ Solution of leetcode problems
 | [0171-excel-sheet-column-number](https://github.com/Parag-Gavande/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/Parag-Gavande/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Parag-Gavande/Leetcode/tree/master/0344-reverse-string) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/Parag-Gavande/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1797-goal-parser-interpretation](https://github.com/Parag-Gavande/Leetcode/tree/master/1797-goal-parser-interpretation) |
 | [2502-sort-the-people](https://github.com/Parag-Gavande/Leetcode/tree/master/2502-sort-the-people) |
 | [3379-score-of-a-string](https://github.com/Parag-Gavande/Leetcode/tree/master/3379-score-of-a-string) |
@@ -92,4 +93,12 @@ Solution of leetcode problems
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Parag-Gavande/Leetcode/tree/master/0014-longest-common-prefix) |
+## Greedy
+|  |
+| ------- |
+| [1341-split-a-string-in-balanced-strings](https://github.com/Parag-Gavande/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
+## Counting
+|  |
+| ------- |
+| [1341-split-a-string-in-balanced-strings](https://github.com/Parag-Gavande/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 <!---LeetCode Topics End-->
