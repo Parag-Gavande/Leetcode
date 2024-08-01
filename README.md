@@ -25,6 +25,7 @@ Solution of leetcode problems
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Parag-Gavande/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Parag-Gavande/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2502-sort-the-people](https://github.com/Parag-Gavande/Leetcode/tree/master/2502-sort-the-people) |
+| [2727-number-of-senior-citizens](https://github.com/Parag-Gavande/Leetcode/tree/master/2727-number-of-senior-citizens) |
 ## Binary Search
 |  |
 | ------- |
@@ -51,6 +52,7 @@ Solution of leetcode problems
 | [1341-split-a-string-in-balanced-strings](https://github.com/Parag-Gavande/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1797-goal-parser-interpretation](https://github.com/Parag-Gavande/Leetcode/tree/master/1797-goal-parser-interpretation) |
 | [2502-sort-the-people](https://github.com/Parag-Gavande/Leetcode/tree/master/2502-sort-the-people) |
+| [2727-number-of-senior-citizens](https://github.com/Parag-Gavande/Leetcode/tree/master/2727-number-of-senior-citizens) |
 | [3379-score-of-a-string](https://github.com/Parag-Gavande/Leetcode/tree/master/3379-score-of-a-string) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Parag-Gavande/Leetcode/tree/master/3412-permutation-difference-between-two-strings) |
 ## Dynamic Programming
