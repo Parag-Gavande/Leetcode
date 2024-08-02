@@ -84,6 +84,7 @@ Solution of leetcode problems
 |  |
 | ------- |
 | [0577-employee-bonus](https://github.com/Parag-Gavande/Leetcode/tree/master/0577-employee-bonus) |
+| [1892-find-total-time-spent-by-each-employee](https://github.com/Parag-Gavande/Leetcode/tree/master/1892-find-total-time-spent-by-each-employee) |
 ## Math
 |  |
 | ------- |
