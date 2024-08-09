@@ -88,6 +88,7 @@ Solution of leetcode problems
 | ------- |
 | [0577-employee-bonus](https://github.com/Parag-Gavande/Leetcode/tree/master/0577-employee-bonus) |
 | [0595-big-countries](https://github.com/Parag-Gavande/Leetcode/tree/master/0595-big-countries) |
+| [1837-daily-leads-and-partners](https://github.com/Parag-Gavande/Leetcode/tree/master/1837-daily-leads-and-partners) |
 | [1892-find-total-time-spent-by-each-employee](https://github.com/Parag-Gavande/Leetcode/tree/master/1892-find-total-time-spent-by-each-employee) |
 ## Math
 |  |
