@@ -27,6 +27,7 @@ Solution of leetcode problems
 | [1798-max-number-of-k-sum-pairs](https://github.com/Parag-Gavande/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2502-sort-the-people](https://github.com/Parag-Gavande/Leetcode/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/Parag-Gavande/Leetcode/tree/master/2727-number-of-senior-citizens) |
+| [3446-find-the-number-of-good-pairs-i](https://github.com/Parag-Gavande/Leetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -70,6 +71,7 @@ Solution of leetcode problems
 | [1798-max-number-of-k-sum-pairs](https://github.com/Parag-Gavande/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2502-sort-the-people](https://github.com/Parag-Gavande/Leetcode/tree/master/2502-sort-the-people) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Parag-Gavande/Leetcode/tree/master/3412-permutation-difference-between-two-strings) |
+| [3446-find-the-number-of-good-pairs-i](https://github.com/Parag-Gavande/Leetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
 ## Sorting
 |  |
 | ------- |
