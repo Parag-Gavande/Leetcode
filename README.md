@@ -27,6 +27,7 @@ Solution of leetcode problems
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Parag-Gavande/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1651-shuffle-string](https://github.com/Parag-Gavande/Leetcode/tree/master/1651-shuffle-string) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Parag-Gavande/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2442-number-of-arithmetic-triplets](https://github.com/Parag-Gavande/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2502-sort-the-people](https://github.com/Parag-Gavande/Leetcode/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/Parag-Gavande/Leetcode/tree/master/2727-number-of-senior-citizens) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/Parag-Gavande/Leetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
@@ -43,6 +44,7 @@ Solution of leetcode problems
 | [0088-merge-sorted-array](https://github.com/Parag-Gavande/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0344-reverse-string](https://github.com/Parag-Gavande/Leetcode/tree/master/0344-reverse-string) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Parag-Gavande/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2442-number-of-arithmetic-triplets](https://github.com/Parag-Gavande/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 ## String
 |  |
 | ------- |
@@ -72,6 +74,7 @@ Solution of leetcode problems
 | [0242-valid-anagram](https://github.com/Parag-Gavande/Leetcode/tree/master/0242-valid-anagram) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Parag-Gavande/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Parag-Gavande/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2442-number-of-arithmetic-triplets](https://github.com/Parag-Gavande/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2502-sort-the-people](https://github.com/Parag-Gavande/Leetcode/tree/master/2502-sort-the-people) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Parag-Gavande/Leetcode/tree/master/3412-permutation-difference-between-two-strings) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/Parag-Gavande/Leetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
@@ -140,4 +143,8 @@ Solution of leetcode problems
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Parag-Gavande/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+## Enumeration
+|  |
+| ------- |
+| [2442-number-of-arithmetic-triplets](https://github.com/Parag-Gavande/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 <!---LeetCode Topics End-->
