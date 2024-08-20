@@ -44,6 +44,7 @@ Solution of leetcode problems
 | [0088-merge-sorted-array](https://github.com/Parag-Gavande/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0344-reverse-string](https://github.com/Parag-Gavande/Leetcode/tree/master/0344-reverse-string) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Parag-Gavande/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2128-reverse-prefix-of-word](https://github.com/Parag-Gavande/Leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Parag-Gavande/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 ## String
 |  |
@@ -58,6 +59,7 @@ Solution of leetcode problems
 | [1341-split-a-string-in-balanced-strings](https://github.com/Parag-Gavande/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1651-shuffle-string](https://github.com/Parag-Gavande/Leetcode/tree/master/1651-shuffle-string) |
 | [1797-goal-parser-interpretation](https://github.com/Parag-Gavande/Leetcode/tree/master/1797-goal-parser-interpretation) |
+| [2128-reverse-prefix-of-word](https://github.com/Parag-Gavande/Leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2502-sort-the-people](https://github.com/Parag-Gavande/Leetcode/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/Parag-Gavande/Leetcode/tree/master/2727-number-of-senior-citizens) |
 | [3379-score-of-a-string](https://github.com/Parag-Gavande/Leetcode/tree/master/3379-score-of-a-string) |
