@@ -22,6 +22,7 @@ Solution of leetcode problems
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Parag-Gavande/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/Parag-Gavande/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Parag-Gavande/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0861-flipping-an-image](https://github.com/Parag-Gavande/Leetcode/tree/master/0861-flipping-an-image) |
 | [0890-lemonade-change](https://github.com/Parag-Gavande/Leetcode/tree/master/0890-lemonade-change) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Parag-Gavande/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Parag-Gavande/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -44,6 +45,7 @@ Solution of leetcode problems
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Parag-Gavande/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/Parag-Gavande/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0344-reverse-string](https://github.com/Parag-Gavande/Leetcode/tree/master/0344-reverse-string) |
+| [0861-flipping-an-image](https://github.com/Parag-Gavande/Leetcode/tree/master/0861-flipping-an-image) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Parag-Gavande/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2128-reverse-prefix-of-word](https://github.com/Parag-Gavande/Leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Parag-Gavande/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
@@ -94,6 +96,7 @@ Solution of leetcode problems
 ## Matrix
 |  |
 | ------- |
+| [0861-flipping-an-image](https://github.com/Parag-Gavande/Leetcode/tree/master/0861-flipping-an-image) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Parag-Gavande/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 ## Database
 |  |
@@ -155,4 +158,9 @@ Solution of leetcode problems
 |  |
 | ------- |
 | [0476-number-complement](https://github.com/Parag-Gavande/Leetcode/tree/master/0476-number-complement) |
+| [0861-flipping-an-image](https://github.com/Parag-Gavande/Leetcode/tree/master/0861-flipping-an-image) |
+## Simulation
+|  |
+| ------- |
+| [0861-flipping-an-image](https://github.com/Parag-Gavande/Leetcode/tree/master/0861-flipping-an-image) |
 <!---LeetCode Topics End-->
