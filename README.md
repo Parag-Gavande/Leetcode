@@ -37,6 +37,7 @@ Solution of leetcode problems
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Parag-Gavande/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0374-guess-number-higher-or-lower](https://github.com/Parag-Gavande/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 ## Two Pointers
 |  |
 | ------- |
@@ -163,4 +164,8 @@ Solution of leetcode problems
 |  |
 | ------- |
 | [0861-flipping-an-image](https://github.com/Parag-Gavande/Leetcode/tree/master/0861-flipping-an-image) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/Parag-Gavande/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
