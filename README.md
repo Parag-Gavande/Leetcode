@@ -24,6 +24,7 @@ Solution of leetcode problems
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Parag-Gavande/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0861-flipping-an-image](https://github.com/Parag-Gavande/Leetcode/tree/master/0861-flipping-an-image) |
 | [0890-lemonade-change](https://github.com/Parag-Gavande/Leetcode/tree/master/0890-lemonade-change) |
+| [0924-fair-candy-swap](https://github.com/Parag-Gavande/Leetcode/tree/master/0924-fair-candy-swap) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Parag-Gavande/Leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Parag-Gavande/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1651-shuffle-string](https://github.com/Parag-Gavande/Leetcode/tree/master/1651-shuffle-string) |
@@ -38,6 +39,7 @@ Solution of leetcode problems
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Parag-Gavande/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0374-guess-number-higher-or-lower](https://github.com/Parag-Gavande/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
+| [0924-fair-candy-swap](https://github.com/Parag-Gavande/Leetcode/tree/master/0924-fair-candy-swap) |
 ## Two Pointers
 |  |
 | ------- |
@@ -79,6 +81,7 @@ Solution of leetcode problems
 | [0012-integer-to-roman](https://github.com/Parag-Gavande/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Parag-Gavande/Leetcode/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/Parag-Gavande/Leetcode/tree/master/0242-valid-anagram) |
+| [0924-fair-candy-swap](https://github.com/Parag-Gavande/Leetcode/tree/master/0924-fair-candy-swap) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Parag-Gavande/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Parag-Gavande/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Parag-Gavande/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
@@ -91,6 +94,7 @@ Solution of leetcode problems
 | [0015-3sum](https://github.com/Parag-Gavande/Leetcode/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/Parag-Gavande/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/Parag-Gavande/Leetcode/tree/master/0242-valid-anagram) |
+| [0924-fair-candy-swap](https://github.com/Parag-Gavande/Leetcode/tree/master/0924-fair-candy-swap) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Parag-Gavande/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Parag-Gavande/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2502-sort-the-people](https://github.com/Parag-Gavande/Leetcode/tree/master/2502-sort-the-people) |
