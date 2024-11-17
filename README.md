@@ -62,6 +62,7 @@ Solution of leetcode problems
 | [0171-excel-sheet-column-number](https://github.com/Parag-Gavande/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/Parag-Gavande/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Parag-Gavande/Leetcode/tree/master/0344-reverse-string) |
+| [0812-rotate-string](https://github.com/Parag-Gavande/Leetcode/tree/master/0812-rotate-string) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Parag-Gavande/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1651-shuffle-string](https://github.com/Parag-Gavande/Leetcode/tree/master/1651-shuffle-string) |
 | [1797-goal-parser-interpretation](https://github.com/Parag-Gavande/Leetcode/tree/master/1797-goal-parser-interpretation) |
@@ -172,4 +173,8 @@ Solution of leetcode problems
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/Parag-Gavande/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/Parag-Gavande/Leetcode/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
