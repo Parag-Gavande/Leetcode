@@ -30,6 +30,7 @@ Solution of leetcode problems
 | [1651-shuffle-string](https://github.com/Parag-Gavande/Leetcode/tree/master/1651-shuffle-string) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Parag-Gavande/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1899-count-items-matching-a-rule](https://github.com/Parag-Gavande/Leetcode/tree/master/1899-count-items-matching-a-rule) |
+| [2232-adding-spaces-to-a-string](https://github.com/Parag-Gavande/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Parag-Gavande/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2502-sort-the-people](https://github.com/Parag-Gavande/Leetcode/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/Parag-Gavande/Leetcode/tree/master/2727-number-of-senior-citizens) |
@@ -51,6 +52,7 @@ Solution of leetcode problems
 | [0861-flipping-an-image](https://github.com/Parag-Gavande/Leetcode/tree/master/0861-flipping-an-image) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Parag-Gavande/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2128-reverse-prefix-of-word](https://github.com/Parag-Gavande/Leetcode/tree/master/2128-reverse-prefix-of-word) |
+| [2232-adding-spaces-to-a-string](https://github.com/Parag-Gavande/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Parag-Gavande/Leetcode/tree/master/2442-number-of-arithmetic-triplets) |
 ## String
 |  |
@@ -68,6 +70,7 @@ Solution of leetcode problems
 | [1797-goal-parser-interpretation](https://github.com/Parag-Gavande/Leetcode/tree/master/1797-goal-parser-interpretation) |
 | [1899-count-items-matching-a-rule](https://github.com/Parag-Gavande/Leetcode/tree/master/1899-count-items-matching-a-rule) |
 | [2128-reverse-prefix-of-word](https://github.com/Parag-Gavande/Leetcode/tree/master/2128-reverse-prefix-of-word) |
+| [2232-adding-spaces-to-a-string](https://github.com/Parag-Gavande/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2502-sort-the-people](https://github.com/Parag-Gavande/Leetcode/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/Parag-Gavande/Leetcode/tree/master/2727-number-of-senior-citizens) |
 | [3379-score-of-a-string](https://github.com/Parag-Gavande/Leetcode/tree/master/3379-score-of-a-string) |
@@ -169,6 +172,7 @@ Solution of leetcode problems
 |  |
 | ------- |
 | [0861-flipping-an-image](https://github.com/Parag-Gavande/Leetcode/tree/master/0861-flipping-an-image) |
+| [2232-adding-spaces-to-a-string](https://github.com/Parag-Gavande/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 ## Interactive
 |  |
 | ------- |
